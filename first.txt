@@ -1,2 +1,2 @@
-first from main from remote 
-i am adding this from feature 
+first from main from remote  
+i am adding this from feature version 2 from feature
