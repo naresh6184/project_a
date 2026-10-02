@@ -1,4 +1,2 @@
-first from main from remote  
-i am adding this from feature version 2 from feature
-added this file.
-this is a new line
+first from main from remote 
+i am adding this from feature 
