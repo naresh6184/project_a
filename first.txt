@@ -2,3 +2,8 @@ commit 1 from main
 commit 2 from main
 commit 4 from feature_main
 commit 5 from feature_main
+i am adding this for staging area
+this is for working area
+
+this is for actual working area
+
